@@ -1,0 +1,1 @@
+Esse programa é um protótipo para escolha de times de futebol a partir de uma lista classificada do melhor para o pior jogador.
